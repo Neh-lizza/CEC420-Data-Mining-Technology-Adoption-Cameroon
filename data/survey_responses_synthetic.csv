@@ -1,0 +1,658 @@
+Timestamp,What region do you attend university,What is your field of study?,What academic level are you at?,What is your gender?,"How many AI tools do you use regularly? (ChatGPT, Gemini, Claude, Copilot, etc.)",How many hours per day do you spend using AI tools?,For which academic tasks do you use AI? (select all that apply),How often do you verify what an AI tool tells you before using it?,How confident are you completing academic tasks without AI?,Have you submitted AI-generated content as your own work without major edits?,Do you feel anxious or stuck when AI tools are unavailable?,How much do you trust AI output without checking the source?,How well do you understand the limitations of AI tools?,Has your university given any guidance on responsible AI use?
+2025-01-15 00:00:00,Bamenda,Sciences,300L,Female,2,Less than 1hr,Assignments,3,1,Once or twice,4,2,2,no
+2025-01-15 00:47:00,Other,Law,300L,Male,2,1-2hrs,Research,2,3,Once or twice,1,5,4,not sure
+2025-01-15 01:34:00,Yaounde,Social Sciences,300L,Male,3,5hrs or more,Assignments,4,2,Never,1,3,2,no
+2025-01-15 02:21:00,Yaounde,Sciences,400L,Male,3,5hrs or more,Assignments,5,4,Often,5,1,3,no
+2025-01-15 03:08:00,Buea,Other,100L,Female,0,1-2hrs,Coding,3,1,Sometimes,1,3,3,no
+2025-01-15 03:55:00,Buea,Law,100L,Male,1,Less than 1hr,Summarising notes,4,4,Never,4,1,3,not sure
+2025-01-15 04:42:00,Buea,Engineering,200L,Male,3,5hrs or more,Assignments,5,3,Once or twice,5,4,2,no
+2025-01-15 05:29:00,Douala,Engineering,200L,Female,3,1-2hrs,Assignments,5,1,Never,2,3,3,no
+2025-01-15 06:16:00,Yaounde,Engineering,400L,Female,4 or more,3-4hrs,Assignments,2,5,Often,3,3,4,yes
+2025-01-15 07:03:00,Yaounde,Engineering,200L,Male,3,5hrs or more,Exam prep,5,3,Never,4,4,3,not sure
+2025-01-15 07:50:00,Buea,Engineering,PhD,Female,4 or more,Less than 1hr,Other,3,2,Sometimes,5,5,3,yes
+2025-01-15 08:37:00,Other,Engineering,200L,Male,3,3-4hrs,Assignments,3,2,Never,5,4,4,no
+2025-01-15 09:24:00,Douala,Engineering,200L,Male,2,Less than 1hr,Assignments,1,4,Sometimes,4,3,4,no
+2025-01-15 10:11:00,Buea,Engineering,400L,Male,1,1-2hrs,Exam prep,3,2,Sometimes,1,5,3,no
+2025-01-15 10:58:00,Buea,Business,300L,Male,4 or more,5hrs or more,Exam prep,2,1,Sometimes,4,5,2,no
+2025-01-15 11:45:00,Buea,Engineering,300L,Female,3,3-4hrs,Research,3,1,Sometimes,3,2,5,yes
+2025-01-15 12:32:00,Bamenda,Social Sciences,300L,Male,0,5hrs or more,Assignments,3,2,Often,3,4,3,no
+2025-01-15 13:19:00,Bamenda,Sciences,400L,Male,2,3-4hrs,Assignments,5,4,Never,1,3,2,not sure
+2025-01-15 14:06:00,Bamenda,Other,200L,Female,4 or more,1-2hrs,Summarising notes,5,2,Once or twice,2,1,2,not sure
+2025-01-15 14:53:00,Buea,Engineering,PhD,Female,3,1-2hrs,Research,3,2,Never,4,4,4,yes
+2025-01-15 15:40:00,Yaounde,Sciences,PhD,Male,2,1-2hrs,Assignments,5,1,Often,3,5,1,not sure
+2025-01-15 16:27:00,Buea,Other,300L,Female,2,1-2hrs,Summarising notes,5,2,Once or twice,3,2,5,no
+2025-01-15 17:14:00,Buea,Business,200L,Male,2,Less than 1hr,Assignments,4,5,Sometimes,3,5,2,not sure
+2025-01-15 18:01:00,Bamenda,Business,400L,Female,2,1-2hrs,Coding,2,2,Sometimes,5,5,4,no
+2025-01-15 18:48:00,Bamenda,Engineering,100L,Female,2,3-4hrs,Research,4,5,Never,4,5,3,no
+2025-01-15 19:35:00,Douala,Engineering,100L,Female,1,3-4hrs,Assignments,5,2,Never,2,3,3,not sure
+2025-01-15 20:22:00,Buea,Law,200L,Male,3,3-4hrs,Summarising notes,4,1,Never,2,5,5,not sure
+2025-01-15 21:09:00,Bamenda,Other,300L,Male,2,3-4hrs,Research,3,4,Once or twice,2,3,3,no
+2025-01-15 21:56:00,Yaounde,Social Sciences,400L,Male,4 or more,Less than 1hr,Other,4,2,Never,5,4,3,no
+2025-01-15 22:43:00,Buea,Social Sciences,400L,Male,4 or more,1-2hrs,Summarising notes,4,3,Never,4,1,1,no
+2025-01-15 23:30:00,Yaounde,Engineering,400L,Male,2,3-4hrs,Research,4,5,Often,3,1,1,no
+2025-01-16 00:17:00,Buea,Health,300L,Female,3,3-4hrs,Coding,2,1,Often,4,4,2,no
+2025-01-16 01:04:00,Buea,Engineering,200L,Male,2,Less than 1hr,Research,3,1,Once or twice,3,3,4,no
+2025-01-16 01:51:00,Other,Sciences,200L,Male,4 or more,5hrs or more,Exam prep,5,3,Once or twice,4,3,2,not sure
+2025-01-16 02:38:00,Other,Sciences,PhD,Female,2,5hrs or more,Research,5,2,Never,3,2,2,yes
+2025-01-16 03:25:00,Douala,Social Sciences,100L,Male,3,3-4hrs,Summarising notes,2,1,Sometimes,2,4,3,no
+2025-01-16 04:12:00,Bamenda,Engineering,400L,Female,3,Less than 1hr,Assignments,5,1,Sometimes,2,1,4,yes
+2025-01-16 04:59:00,Buea,Engineering,300L,Male,2,3-4hrs,Research,3,1,Never,3,4,4,no
+2025-01-16 05:46:00,Yaounde,Law,300L,Male,1,3-4hrs,Exam prep,4,4,Never,5,1,2,yes
+2025-01-16 06:33:00,Bamenda,Engineering,400L,Male,3,5hrs or more,Coding,4,1,Sometimes,3,2,1,no
+2025-01-16 07:20:00,Buea,Social Sciences,300L,Male,3,3-4hrs,Assignments,5,2,Sometimes,5,3,5,not sure
+2025-01-16 08:07:00,Bamenda,Engineering,400L,Female,2,5hrs or more,Assignments,5,3,Never,4,3,2,not sure
+2025-01-16 08:54:00,Buea,Social Sciences,Masters,Male,3,3-4hrs,Coding,3,2,Sometimes,2,3,5,yes
+2025-01-16 09:41:00,Other,Social Sciences,300L,Male,2,1-2hrs,Exam prep,5,1,Once or twice,1,3,5,no
+2025-01-16 10:28:00,Buea,Engineering,200L,Male,3,3-4hrs,Assignments,2,4,Once or twice,2,5,4,no
+2025-01-16 11:15:00,Yaounde,Sciences,300L,Male,1,3-4hrs,Summarising notes,4,1,Sometimes,4,4,2,not sure
+2025-01-16 12:02:00,Bamenda,Engineering,Masters,Female,4 or more,3-4hrs,Research,4,4,Sometimes,2,1,4,not sure
+2025-01-16 12:49:00,Bamenda,Engineering,200L,Male,2,1-2hrs,Exam prep,4,4,Once or twice,3,3,4,no
+2025-01-16 13:36:00,Bamenda,Other,300L,Female,2,1-2hrs,Assignments,3,2,Often,3,5,3,no
+2025-01-16 14:23:00,Buea,Sciences,300L,Female,1,5hrs or more,Assignments,5,3,Once or twice,4,3,3,not sure
+2025-01-16 15:10:00,Other,Business,400L,Female,1,3-4hrs,Coding,2,2,Sometimes,2,2,2,yes
+2025-01-16 15:57:00,Douala,Engineering,100L,Female,3,5hrs or more,Assignments,1,2,Once or twice,3,4,2,no
+2025-01-16 16:44:00,Other,Law,400L,Male,2,3-4hrs,Summarising notes,4,4,Often,3,4,3,not sure
+2025-01-16 17:31:00,Douala,Health,Masters,Male,4 or more,3-4hrs,Research,3,4,Often,3,4,3,no
+2025-01-16 18:18:00,Yaounde,Social Sciences,200L,Male,0,3-4hrs,Research,5,2,Never,4,1,3,no
+2025-01-16 19:05:00,Other,Sciences,200L,Female,2,5hrs or more,Research,3,3,Often,2,2,3,no
+2025-01-16 19:52:00,Buea,Sciences,PhD,Female,2,3-4hrs,Summarising notes,2,5,Sometimes,4,4,3,no
+2025-01-16 20:39:00,Buea,Sciences,200L,Male,0,3-4hrs,Assignments,5,5,Sometimes,4,2,4,no
+2025-01-16 21:26:00,Buea,Other,400L,Female,1,1-2hrs,Summarising notes,4,3,Never,3,3,5,no
+2025-01-16 22:13:00,Bamenda,Business,300L,Male,2,3-4hrs,Coding,2,2,Sometimes,4,4,2,no
+2025-01-16 23:00:00,Bamenda,Other,200L,Female,2,3-4hrs,Coding,4,2,Often,3,3,3,no
+2025-01-16 23:47:00,Buea,Engineering,400L,Male,2,1-2hrs,Assignments,4,5,Never,2,5,2,not sure
+2025-01-17 00:34:00,Douala,Health,300L,Female,3,1-2hrs,Assignments,4,1,Often,4,5,4,yes
+2025-01-17 01:21:00,Bamenda,Other,300L,Female,3,1-2hrs,Research,3,3,Never,3,4,4,no
+2025-01-17 02:08:00,Buea,Engineering,200L,Male,0,1-2hrs,Research,5,2,Never,4,1,5,no
+2025-01-17 02:55:00,Bamenda,Engineering,300L,Male,2,1-2hrs,Research,5,2,Once or twice,3,2,2,no
+2025-01-17 03:42:00,Buea,Health,200L,Male,4 or more,3-4hrs,Coding,4,2,Once or twice,5,3,5,yes
+2025-01-17 04:29:00,Douala,Social Sciences,200L,Male,3,5hrs or more,Assignments,2,5,Sometimes,4,2,1,no
+2025-01-17 05:16:00,Buea,Business,PhD,Male,3,3-4hrs,Assignments,5,1,Never,1,5,4,not sure
+2025-01-17 06:03:00,Other,Engineering,200L,Female,2,1-2hrs,Research,4,3,Often,3,2,1,no
+2025-01-17 06:50:00,Douala,Health,300L,Female,3,Less than 1hr,Coding,4,1,Never,4,3,5,not sure
+2025-01-17 07:37:00,Buea,Engineering,200L,Male,3,3-4hrs,Assignments,3,1,Never,4,3,3,not sure
+2025-01-17 08:24:00,Buea,Engineering,400L,Male,3,1-2hrs,Coding,5,2,Never,3,4,4,yes
+2025-01-17 09:11:00,Douala,Engineering,100L,Female,4 or more,5hrs or more,Research,4,3,Once or twice,5,2,4,yes
+2025-01-17 09:58:00,Yaounde,Business,PhD,Female,1,3-4hrs,Exam prep,2,2,Often,2,3,2,not sure
+2025-01-17 10:45:00,Yaounde,Law,300L,Male,0,5hrs or more,Exam prep,3,2,Sometimes,3,3,1,not sure
+2025-01-17 11:32:00,Douala,Social Sciences,200L,Female,3,1-2hrs,Research,5,1,Sometimes,5,5,5,yes
+2025-01-17 12:19:00,Buea,Sciences,100L,Male,4 or more,3-4hrs,Assignments,1,2,Never,5,1,3,yes
+2025-01-17 13:06:00,Bamenda,Business,200L,Male,1,1-2hrs,Research,5,5,Once or twice,4,5,2,yes
+2025-01-17 13:53:00,Buea,Sciences,300L,Male,2,5hrs or more,Assignments,4,5,Once or twice,5,5,3,not sure
+2025-01-17 14:40:00,Douala,Business,200L,Male,0,3-4hrs,Coding,4,2,Once or twice,1,3,3,yes
+2025-01-17 15:27:00,Yaounde,Sciences,400L,Male,2,1-2hrs,Coding,3,3,Never,5,4,1,no
+2025-01-17 16:14:00,Bamenda,Sciences,300L,Female,3,1-2hrs,Coding,3,5,Sometimes,3,1,2,not sure
+2025-01-17 17:01:00,Buea,Sciences,200L,Female,3,1-2hrs,Coding,5,1,Once or twice,2,5,1,yes
+2025-01-17 17:48:00,Bamenda,Sciences,300L,Female,2,3-4hrs,Research,3,4,Sometimes,2,3,3,no
+2025-01-17 18:35:00,Bamenda,Health,400L,Male,2,1-2hrs,Assignments,4,5,Once or twice,3,3,5,no
+2025-01-17 19:22:00,Yaounde,Social Sciences,200L,Male,0,3-4hrs,Coding,3,1,Never,2,3,5,not sure
+2025-01-17 20:09:00,Yaounde,Engineering,200L,Female,2,1-2hrs,Research,2,1,Sometimes,3,1,4,no
+2025-01-17 20:56:00,Douala,Business,100L,Male,3,3-4hrs,Coding,1,5,Never,2,5,2,no
+2025-01-17 21:43:00,Bamenda,Sciences,400L,Male,4 or more,5hrs or more,Research,4,3,Often,3,1,5,no
+2025-01-17 22:30:00,Buea,Social Sciences,300L,Male,4 or more,5hrs or more,Assignments,5,1,Sometimes,4,4,3,yes
+2025-01-17 23:17:00,Yaounde,Business,300L,Female,0,3-4hrs,Other,3,2,Never,3,3,2,yes
+2025-01-18 00:04:00,Douala,Law,400L,Male,4 or more,1-2hrs,Assignments,3,2,Often,3,5,5,no
+2025-01-18 00:51:00,Yaounde,Engineering,400L,Male,4 or more,Less than 1hr,Other,3,3,Once or twice,4,3,4,no
+2025-01-18 01:38:00,Douala,Other,300L,Female,4 or more,3-4hrs,Other,4,3,Never,5,4,4,not sure
+2025-01-18 02:25:00,Bamenda,Law,400L,Male,2,1-2hrs,Coding,3,5,Sometimes,4,3,4,not sure
+2025-01-18 03:12:00,Bamenda,Sciences,200L,Male,2,3-4hrs,Coding,5,2,Never,3,4,2,no
+2025-01-18 03:59:00,Bamenda,Engineering,100L,Male,2,Less than 1hr,Summarising notes,4,3,Sometimes,4,1,2,no
+2025-01-18 04:46:00,Buea,Health,200L,Male,1,1-2hrs,Exam prep,4,3,Sometimes,2,2,4,no
+2025-01-18 05:33:00,Buea,Law,100L,Female,2,Less than 1hr,Research,2,2,Often,2,2,2,not sure
+2025-01-18 06:20:00,Buea,Social Sciences,300L,Male,2,5hrs or more,Summarising notes,5,1,Once or twice,3,4,3,no
+2025-01-18 07:07:00,Yaounde,Business,Masters,Male,2,1-2hrs,Summarising notes,3,5,Once or twice,4,2,4,no
+2025-01-18 07:54:00,Bamenda,Health,100L,Female,3,3-4hrs,Research,1,4,Sometimes,2,4,4,no
+2025-01-18 08:41:00,Bamenda,Engineering,100L,Female,2,Less than 1hr,Research,4,2,Never,1,2,3,no
+2025-01-18 09:28:00,Other,Sciences,300L,Female,1,3-4hrs,Research,4,3,Once or twice,2,5,4,no
+2025-01-18 10:15:00,Buea,Engineering,Masters,Male,4 or more,1-2hrs,Summarising notes,3,2,Once or twice,5,5,4,no
+2025-01-18 11:02:00,Bamenda,Health,200L,Male,4 or more,5hrs or more,Exam prep,3,3,Never,4,3,4,yes
+2025-01-18 11:49:00,Douala,Engineering,300L,Female,4 or more,5hrs or more,Assignments,4,3,Once or twice,2,3,2,no
+2025-01-18 12:36:00,Buea,Social Sciences,100L,Female,4 or more,1-2hrs,Exam prep,2,3,Often,3,3,2,yes
+2025-01-18 13:23:00,Buea,Health,100L,Male,3,5hrs or more,Coding,5,5,Often,3,1,3,yes
+2025-01-18 14:10:00,Buea,Business,PhD,Male,4 or more,5hrs or more,Coding,4,3,Never,4,3,2,no
+2025-01-18 14:57:00,Buea,Sciences,PhD,Male,1,5hrs or more,Summarising notes,3,2,Never,2,4,2,yes
+2025-01-18 15:44:00,Other,Business,100L,Female,2,5hrs or more,Coding,3,4,Never,5,4,2,no
+2025-01-18 16:31:00,Douala,Engineering,Masters,Male,2,1-2hrs,Assignments,3,1,Often,3,5,3,no
+2025-01-18 17:18:00,Yaounde,Business,300L,Male,1,3-4hrs,Coding,4,2,Never,4,3,5,no
+2025-01-18 18:05:00,Douala,Engineering,400L,Male,1,Less than 1hr,Assignments,4,2,Sometimes,1,4,2,no
+2025-01-18 18:52:00,Douala,Sciences,300L,Female,3,Less than 1hr,Exam prep,3,2,Never,3,3,4,yes
+2025-01-18 19:39:00,Buea,Health,300L,Female,4 or more,5hrs or more,Other,4,4,Sometimes,3,3,4,yes
+2025-01-18 20:26:00,Douala,Engineering,300L,Male,3,1-2hrs,Research,5,2,Once or twice,3,3,1,not sure
+2025-01-18 21:13:00,Bamenda,Engineering,300L,Female,1,3-4hrs,Assignments,3,4,Sometimes,1,3,5,no
+2025-01-18 22:00:00,Douala,Health,100L,Female,4 or more,5hrs or more,Coding,5,3,Never,4,3,3,no
+2025-01-18 22:47:00,Douala,Health,100L,Male,3,5hrs or more,Research,3,2,Sometimes,2,4,3,yes
+2025-01-18 23:34:00,Bamenda,Law,200L,Male,2,5hrs or more,Exam prep,1,4,Never,4,5,4,no
+2025-01-19 00:21:00,Buea,Law,400L,Male,3,1-2hrs,Assignments,2,2,Sometimes,4,3,2,no
+2025-01-19 01:08:00,Buea,Social Sciences,200L,Female,2,Less than 1hr,Assignments,3,2,Often,4,1,4,no
+2025-01-19 01:55:00,Bamenda,Engineering,300L,Female,2,1-2hrs,Other,2,3,Never,4,3,1,no
+2025-01-19 02:42:00,Douala,Sciences,PhD,Female,4 or more,1-2hrs,Coding,1,2,Often,4,4,4,yes
+2025-01-19 03:29:00,Douala,Engineering,100L,Female,2,Less than 1hr,Exam prep,5,1,Once or twice,3,2,3,no
+2025-01-19 04:16:00,Buea,Business,300L,Male,2,1-2hrs,Research,5,3,Never,4,4,4,not sure
+2025-01-19 05:03:00,Bamenda,Social Sciences,300L,Female,4 or more,5hrs or more,Coding,4,3,Once or twice,3,5,2,not sure
+2025-01-19 05:50:00,Bamenda,Sciences,400L,Male,3,3-4hrs,Summarising notes,2,2,Never,4,5,4,yes
+2025-01-19 06:37:00,Buea,Sciences,200L,Male,1,1-2hrs,Summarising notes,2,5,Sometimes,4,2,4,no
+2025-01-19 07:24:00,Buea,Other,400L,Female,1,3-4hrs,Coding,1,3,Sometimes,3,5,3,yes
+2025-01-19 08:11:00,Bamenda,Engineering,400L,Female,0,1-2hrs,Summarising notes,4,4,Never,3,4,4,yes
+2025-01-19 08:58:00,Other,Social Sciences,Masters,Male,3,Less than 1hr,Research,5,1,Once or twice,3,3,3,no
+2025-01-19 09:45:00,Bamenda,Social Sciences,400L,Female,2,3-4hrs,Research,3,3,Sometimes,4,4,5,yes
+2025-01-19 10:32:00,Bamenda,Law,300L,Female,1,3-4hrs,Coding,2,4,Often,5,5,3,no
+2025-01-19 11:19:00,Yaounde,Engineering,300L,Male,4 or more,3-4hrs,Assignments,4,3,Once or twice,3,3,4,no
+2025-01-19 12:06:00,Bamenda,Business,400L,Female,3,Less than 1hr,Coding,3,3,Often,4,3,4,yes
+2025-01-19 12:53:00,Other,Other,300L,Male,2,5hrs or more,Assignments,3,2,Once or twice,5,3,3,yes
+2025-01-19 13:40:00,Other,Social Sciences,100L,Male,3,3-4hrs,Summarising notes,4,1,Once or twice,1,4,2,not sure
+2025-01-19 14:27:00,Buea,Law,Masters,Male,3,3-4hrs,Coding,4,2,Sometimes,2,2,3,yes
+2025-01-19 15:14:00,Bamenda,Other,400L,Female,1,3-4hrs,Assignments,2,2,Once or twice,4,5,4,no
+2025-01-19 16:01:00,Bamenda,Health,300L,Female,2,5hrs or more,Assignments,1,4,Once or twice,4,4,2,no
+2025-01-19 16:48:00,Buea,Engineering,200L,Male,4 or more,3-4hrs,Assignments,5,2,Once or twice,5,4,3,no
+2025-01-19 17:35:00,Buea,Social Sciences,300L,Male,2,3-4hrs,Summarising notes,3,5,Sometimes,3,2,4,no
+2025-01-19 18:22:00,Yaounde,Law,200L,Female,3,5hrs or more,Exam prep,1,5,Sometimes,1,4,3,yes
+2025-01-19 19:09:00,Bamenda,Sciences,300L,Male,2,3-4hrs,Assignments,2,2,Once or twice,3,2,4,yes
+2025-01-19 19:56:00,Buea,Health,100L,Female,0,3-4hrs,Coding,1,2,Once or twice,2,1,2,yes
+2025-01-19 20:43:00,Buea,Other,300L,Female,1,3-4hrs,Research,3,4,Once or twice,3,3,2,no
+2025-01-19 21:30:00,Other,Other,PhD,Male,2,1-2hrs,Summarising notes,5,5,Once or twice,4,3,4,no
+2025-01-19 22:17:00,Buea,Sciences,100L,Female,2,1-2hrs,Exam prep,3,2,Never,1,4,1,no
+2025-01-19 23:04:00,Buea,Engineering,PhD,Male,0,3-4hrs,Research,3,2,Sometimes,4,2,2,yes
+2025-01-19 23:51:00,Bamenda,Other,300L,Female,4 or more,5hrs or more,Summarising notes,4,3,Once or twice,3,3,5,no
+2025-01-20 00:38:00,Other,Business,400L,Female,4 or more,5hrs or more,Assignments,4,3,Once or twice,4,2,3,no
+2025-01-20 01:25:00,Buea,Engineering,400L,Female,4 or more,1-2hrs,Assignments,5,2,Never,1,5,5,not sure
+2025-01-20 02:12:00,Yaounde,Other,300L,Male,4 or more,3-4hrs,Research,5,3,Never,3,4,5,no
+2025-01-20 02:59:00,Douala,Business,400L,Female,2,1-2hrs,Assignments,1,1,Often,1,4,2,no
+2025-01-20 03:46:00,Buea,Social Sciences,400L,Male,4 or more,5hrs or more,Coding,4,1,Once or twice,5,3,1,no
+2025-01-20 04:33:00,Yaounde,Social Sciences,300L,Male,1,5hrs or more,Research,3,2,Never,4,2,4,not sure
+2025-01-20 05:20:00,Bamenda,Sciences,200L,Male,4 or more,3-4hrs,Summarising notes,5,2,Once or twice,3,5,3,not sure
+2025-01-20 06:07:00,Yaounde,Engineering,300L,Female,4 or more,5hrs or more,Assignments,3,2,Once or twice,2,3,2,no
+2025-01-20 06:54:00,Yaounde,Sciences,400L,Male,3,3-4hrs,Research,5,2,Never,5,3,4,yes
+2025-01-20 07:41:00,Bamenda,Business,400L,Female,4 or more,3-4hrs,Coding,4,2,Once or twice,3,4,1,no
+2025-01-20 08:28:00,Buea,Engineering,400L,Female,3,Less than 1hr,Other,3,1,Once or twice,2,1,5,no
+2025-01-20 09:15:00,Douala,Sciences,300L,Male,2,3-4hrs,Assignments,4,2,Once or twice,4,5,2,no
+2025-01-20 10:02:00,Bamenda,Sciences,400L,Female,2,3-4hrs,Exam prep,5,5,Once or twice,5,4,2,no
+2025-01-20 10:49:00,Buea,Social Sciences,100L,Male,3,3-4hrs,Summarising notes,5,2,Once or twice,1,3,2,yes
+2025-01-20 11:36:00,Buea,Business,300L,Female,1,1-2hrs,Summarising notes,2,2,Often,2,1,5,no
+2025-01-20 12:23:00,Yaounde,Sciences,100L,Female,3,5hrs or more,Summarising notes,4,3,Once or twice,5,2,4,not sure
+2025-01-20 13:10:00,Yaounde,Sciences,200L,Male,4 or more,1-2hrs,Assignments,3,5,Never,2,5,4,no
+2025-01-20 13:57:00,Buea,Health,200L,Female,1,3-4hrs,Assignments,1,2,Never,2,4,3,no
+2025-01-20 14:44:00,Bamenda,Sciences,200L,Male,4 or more,3-4hrs,Summarising notes,3,3,Once or twice,4,3,3,no
+2025-01-20 15:31:00,Buea,Engineering,400L,Male,4 or more,3-4hrs,Research,3,3,Sometimes,5,1,2,not sure
+2025-01-20 16:18:00,Yaounde,Sciences,200L,Female,4 or more,3-4hrs,Exam prep,5,3,Never,3,4,3,not sure
+2025-01-20 17:05:00,Buea,Engineering,300L,Male,4 or more,1-2hrs,Research,3,1,Sometimes,5,4,3,no
+2025-01-20 17:52:00,Yaounde,Engineering,200L,Male,3,1-2hrs,Assignments,5,3,Never,4,3,4,no
+2025-01-20 18:39:00,Bamenda,Social Sciences,200L,Male,4 or more,3-4hrs,Coding,1,1,Once or twice,1,3,2,not sure
+2025-01-20 19:26:00,Other,Sciences,200L,Female,3,3-4hrs,Research,3,3,Sometimes,5,2,5,no
+2025-01-20 20:13:00,Buea,Business,100L,Male,1,1-2hrs,Summarising notes,3,3,Once or twice,3,4,2,no
+2025-01-20 21:00:00,Bamenda,Sciences,300L,Male,2,3-4hrs,Coding,3,1,Once or twice,3,5,5,not sure
+2025-01-20 21:47:00,Buea,Social Sciences,300L,Female,3,3-4hrs,Exam prep,1,4,Never,3,2,1,yes
+2025-01-20 22:34:00,Other,Law,300L,Female,2,3-4hrs,Coding,2,1,Sometimes,3,4,3,no
+2025-01-20 23:21:00,Douala,Engineering,300L,Male,3,5hrs or more,Coding,4,4,Never,1,3,3,not sure
+2025-01-21 00:08:00,Buea,Law,200L,Male,3,1-2hrs,Coding,3,2,Often,1,3,3,no
+2025-01-21 00:55:00,Yaounde,Engineering,400L,Male,1,Less than 1hr,Exam prep,3,1,Never,3,3,3,no
+2025-01-21 01:42:00,Douala,Other,300L,Male,3,5hrs or more,Research,3,1,Often,5,5,3,yes
+2025-01-21 02:29:00,Yaounde,Engineering,300L,Male,3,3-4hrs,Assignments,5,5,Once or twice,4,3,3,no
+2025-01-21 03:16:00,Bamenda,Sciences,100L,Female,2,3-4hrs,Research,5,1,Sometimes,5,4,4,no
+2025-01-21 04:03:00,Buea,Engineering,200L,Female,0,5hrs or more,Assignments,3,1,Once or twice,3,3,4,yes
+2025-01-21 04:50:00,Buea,Other,200L,Female,0,5hrs or more,Coding,3,2,Often,3,2,4,no
+2025-01-21 05:37:00,Douala,Social Sciences,200L,Male,2,5hrs or more,Coding,2,3,Never,2,2,2,no
+2025-01-21 06:24:00,Other,Social Sciences,300L,Female,4 or more,3-4hrs,Summarising notes,5,3,Never,2,4,4,no
+2025-01-21 07:11:00,Yaounde,Engineering,300L,Male,2,3-4hrs,Assignments,1,1,Once or twice,3,2,3,no
+2025-01-21 07:58:00,Bamenda,Health,300L,Female,3,1-2hrs,Coding,3,2,Never,4,4,3,not sure
+2025-01-21 08:45:00,Bamenda,Engineering,400L,Female,2,1-2hrs,Research,3,2,Never,5,3,3,no
+2025-01-21 09:32:00,Yaounde,Business,400L,Male,2,3-4hrs,Coding,3,1,Often,5,3,3,yes
+2025-01-21 10:19:00,Douala,Engineering,400L,Female,4 or more,1-2hrs,Summarising notes,2,2,Often,2,3,2,yes
+2025-01-21 11:06:00,Douala,Engineering,Masters,Male,3,5hrs or more,Research,4,3,Once or twice,5,3,2,no
+2025-01-21 11:53:00,Douala,Engineering,100L,Female,1,3-4hrs,Assignments,2,1,Often,3,2,2,no
+2025-01-21 12:40:00,Yaounde,Sciences,200L,Male,2,3-4hrs,Assignments,4,2,Once or twice,2,3,4,no
+2025-01-21 13:27:00,Buea,Social Sciences,100L,Male,0,1-2hrs,Exam prep,2,2,Never,5,4,4,no
+2025-01-21 14:14:00,Buea,Engineering,300L,Female,2,Less than 1hr,Exam prep,1,5,Sometimes,4,4,5,yes
+2025-01-21 15:01:00,Douala,Health,Masters,Male,3,Less than 1hr,Coding,5,5,Sometimes,2,3,4,no
+2025-01-21 15:48:00,Yaounde,Sciences,200L,Female,1,3-4hrs,Assignments,2,4,Often,3,3,1,no
+2025-01-21 16:35:00,Buea,Social Sciences,Masters,Male,2,Less than 1hr,Research,5,2,Never,3,2,5,yes
+2025-01-21 17:22:00,Buea,Sciences,100L,Female,2,3-4hrs,Coding,4,1,Sometimes,4,2,5,yes
+2025-01-21 18:09:00,Yaounde,Sciences,Masters,Female,4 or more,5hrs or more,Coding,1,2,Never,3,1,3,yes
+2025-01-21 18:56:00,Buea,Social Sciences,200L,Male,4 or more,5hrs or more,Assignments,5,2,Never,5,5,3,yes
+2025-01-21 19:43:00,Buea,Engineering,100L,Male,0,3-4hrs,Assignments,3,3,Never,1,2,5,no
+2025-01-21 20:30:00,Bamenda,Engineering,300L,Male,3,1-2hrs,Coding,5,4,Often,3,2,3,yes
+2025-01-21 21:17:00,Yaounde,Business,200L,Male,2,5hrs or more,Research,2,4,Sometimes,3,3,5,no
+2025-01-21 22:04:00,Yaounde,Other,200L,Male,2,5hrs or more,Research,5,4,Sometimes,3,2,1,yes
+2025-01-21 22:51:00,Buea,Sciences,200L,Female,3,1-2hrs,Assignments,1,2,Once or twice,3,4,2,not sure
+2025-01-21 23:38:00,Yaounde,Engineering,400L,Female,4 or more,3-4hrs,Summarising notes,4,3,Once or twice,4,1,3,not sure
+2025-01-22 00:25:00,Buea,Law,300L,Female,4 or more,1-2hrs,Exam prep,4,2,Never,5,2,3,yes
+2025-01-22 01:12:00,Bamenda,Sciences,200L,Female,3,5hrs or more,Other,5,1,Never,5,4,4,no
+2025-01-22 01:59:00,Yaounde,Engineering,300L,Female,2,5hrs or more,Summarising notes,5,3,Once or twice,4,3,5,yes
+2025-01-22 02:46:00,Yaounde,Engineering,400L,Female,4 or more,Less than 1hr,Summarising notes,5,1,Sometimes,5,4,3,no
+2025-01-22 03:33:00,Douala,Health,200L,Male,2,5hrs or more,Assignments,5,2,Once or twice,3,4,1,yes
+2025-01-22 04:20:00,Yaounde,Law,300L,Female,3,3-4hrs,Summarising notes,2,2,Never,4,3,4,no
+2025-01-22 05:07:00,Yaounde,Engineering,100L,Female,2,5hrs or more,Research,3,3,Never,3,4,4,no
+2025-01-22 05:54:00,Buea,Engineering,200L,Female,3,3-4hrs,Summarising notes,3,4,Never,3,2,2,not sure
+2025-01-22 06:41:00,Bamenda,Engineering,400L,Male,2,5hrs or more,Research,3,2,Once or twice,3,4,3,yes
+2025-01-22 07:28:00,Buea,Law,200L,Male,1,Less than 1hr,Assignments,3,4,Often,3,3,4,not sure
+2025-01-22 08:15:00,Buea,Engineering,300L,Male,4 or more,1-2hrs,Assignments,4,2,Sometimes,3,3,4,not sure
+2025-01-22 09:02:00,Other,Engineering,400L,Female,1,Less than 1hr,Research,2,2,Sometimes,5,4,3,yes
+2025-01-22 09:49:00,Bamenda,Health,100L,Male,3,5hrs or more,Assignments,4,3,Once or twice,3,5,3,no
+2025-01-22 10:36:00,Douala,Engineering,300L,Male,2,5hrs or more,Assignments,2,3,Once or twice,1,5,5,yes
+2025-01-22 11:23:00,Yaounde,Law,200L,Female,0,5hrs or more,Other,3,5,Never,3,4,4,no
+2025-01-22 12:10:00,Douala,Engineering,PhD,Male,0,5hrs or more,Research,4,2,Often,1,3,3,no
+2025-01-22 12:57:00,Bamenda,Engineering,300L,Male,1,Less than 1hr,Summarising notes,4,3,Sometimes,2,2,2,no
+2025-01-22 13:44:00,Yaounde,Engineering,400L,Male,4 or more,1-2hrs,Exam prep,4,3,Never,2,3,4,no
+2025-01-22 14:31:00,Bamenda,Health,300L,Female,2,Less than 1hr,Other,4,5,Once or twice,3,3,2,not sure
+2025-01-22 15:18:00,Buea,Business,100L,Female,4 or more,1-2hrs,Summarising notes,2,1,Once or twice,3,3,2,yes
+2025-01-22 16:05:00,Yaounde,Business,300L,Male,3,1-2hrs,Coding,4,4,Sometimes,4,5,3,not sure
+2025-01-22 16:52:00,Buea,Sciences,Masters,Female,2,3-4hrs,Research,2,3,Often,4,3,2,yes
+2025-01-22 17:39:00,Buea,Law,300L,Male,3,1-2hrs,Research,3,2,Once or twice,3,3,4,not sure
+2025-01-22 18:26:00,Yaounde,Engineering,400L,Female,3,Less than 1hr,Research,3,2,Once or twice,3,3,2,no
+2025-01-22 19:13:00,Buea,Engineering,Masters,Female,3,1-2hrs,Coding,1,2,Never,3,5,4,yes
+2025-01-22 20:00:00,Other,Business,200L,Female,2,1-2hrs,Coding,3,3,Never,4,4,2,not sure
+2025-01-22 20:47:00,Other,Engineering,200L,Male,2,5hrs or more,Research,5,4,Never,1,4,1,no
+2025-01-22 21:34:00,Other,Engineering,300L,Female,4 or more,3-4hrs,Assignments,5,3,Never,1,3,2,no
+2025-01-22 22:21:00,Bamenda,Engineering,300L,Female,4 or more,5hrs or more,Coding,3,3,Sometimes,4,5,5,no
+2025-01-22 23:08:00,Buea,Engineering,400L,Male,4 or more,3-4hrs,Assignments,1,3,Sometimes,3,1,5,no
+2025-01-22 23:55:00,Other,Engineering,Masters,Female,2,1-2hrs,Summarising notes,2,1,Never,2,5,2,no
+2025-01-23 00:42:00,Bamenda,Social Sciences,200L,Male,4 or more,5hrs or more,Coding,3,2,Sometimes,2,3,4,no
+2025-01-23 01:29:00,Other,Sciences,200L,Female,2,1-2hrs,Coding,5,2,Never,5,3,4,yes
+2025-01-23 02:16:00,Other,Business,400L,Male,2,1-2hrs,Coding,2,2,Once or twice,5,3,5,no
+2025-01-23 03:03:00,Douala,Business,200L,Female,2,1-2hrs,Exam prep,4,1,Never,4,4,3,not sure
+2025-01-23 03:50:00,Buea,Sciences,400L,Male,3,1-2hrs,Summarising notes,2,3,Once or twice,3,1,4,yes
+2025-01-23 04:37:00,Bamenda,Engineering,300L,Male,1,1-2hrs,Coding,5,2,Never,3,5,1,yes
+2025-01-23 05:24:00,Douala,Sciences,300L,Male,2,1-2hrs,Summarising notes,3,2,Once or twice,5,3,3,no
+2025-01-23 06:11:00,Bamenda,Social Sciences,100L,Male,4 or more,3-4hrs,Assignments,4,2,Once or twice,5,3,5,no
+2025-01-23 06:58:00,Buea,Engineering,300L,Male,2,Less than 1hr,Assignments,3,1,Often,2,2,3,no
+2025-01-23 07:45:00,Yaounde,Law,300L,Male,1,1-2hrs,Research,4,5,Never,4,3,2,yes
+2025-01-23 08:32:00,Other,Sciences,300L,Female,1,5hrs or more,Research,2,4,Never,2,3,2,no
+2025-01-23 09:19:00,Yaounde,Social Sciences,200L,Male,4 or more,1-2hrs,Summarising notes,2,3,Never,2,3,4,yes
+2025-01-23 10:06:00,Yaounde,Sciences,400L,Male,3,1-2hrs,Exam prep,5,1,Sometimes,4,4,4,no
+2025-01-23 10:53:00,Buea,Engineering,400L,Female,2,5hrs or more,Assignments,5,4,Never,3,3,3,not sure
+2025-01-23 11:40:00,Yaounde,Other,200L,Male,4 or more,1-2hrs,Assignments,5,4,Sometimes,5,5,5,no
+2025-01-23 12:27:00,Other,Health,100L,Female,4 or more,Less than 1hr,Other,4,4,Once or twice,1,4,1,no
+2025-01-23 13:14:00,Buea,Engineering,100L,Female,2,3-4hrs,Assignments,5,1,Once or twice,3,4,3,not sure
+2025-01-23 14:01:00,Bamenda,Business,300L,Female,3,1-2hrs,Summarising notes,1,3,Once or twice,5,2,5,no
+2025-01-23 14:48:00,Douala,Social Sciences,300L,Female,3,3-4hrs,Summarising notes,3,4,Never,5,3,3,not sure
+2025-01-23 15:35:00,Yaounde,Business,300L,Female,3,5hrs or more,Summarising notes,3,3,Never,2,3,2,no
+2025-01-23 16:22:00,Yaounde,Health,200L,Male,1,1-2hrs,Assignments,4,3,Once or twice,3,4,3,not sure
+2025-01-23 17:09:00,Yaounde,Sciences,200L,Male,4 or more,3-4hrs,Assignments,3,2,Once or twice,4,5,4,yes
+2025-01-23 17:56:00,Bamenda,Engineering,300L,Male,3,3-4hrs,Assignments,2,3,Never,2,1,2,yes
+2025-01-23 18:43:00,Buea,Engineering,300L,Female,2,1-2hrs,Summarising notes,4,1,Never,5,1,5,yes
+2025-01-23 19:30:00,Douala,Social Sciences,PhD,Male,2,3-4hrs,Summarising notes,5,3,Often,5,5,4,no
+2025-01-23 20:17:00,Douala,Law,100L,Female,0,1-2hrs,Assignments,3,1,Never,2,2,2,not sure
+2025-01-23 21:04:00,Douala,Engineering,400L,Female,1,3-4hrs,Coding,2,2,Sometimes,2,4,4,no
+2025-01-23 21:51:00,Other,Engineering,300L,Female,3,Less than 1hr,Coding,2,2,Sometimes,1,4,3,no
+2025-01-23 22:38:00,Bamenda,Business,300L,Male,0,3-4hrs,Assignments,3,3,Never,5,5,3,no
+2025-01-23 23:25:00,Bamenda,Other,400L,Male,2,1-2hrs,Summarising notes,3,1,Never,2,2,4,no
+2025-01-24 00:12:00,Douala,Social Sciences,400L,Female,3,5hrs or more,Coding,4,3,Never,3,2,5,no
+2025-01-24 00:59:00,Yaounde,Engineering,PhD,Female,1,Less than 1hr,Research,4,4,Sometimes,3,4,2,no
+2025-01-24 01:46:00,Yaounde,Engineering,100L,Male,4 or more,1-2hrs,Research,4,1,Sometimes,4,5,3,no
+2025-01-24 02:33:00,Douala,Engineering,100L,Male,2,3-4hrs,Summarising notes,3,1,Sometimes,1,3,3,yes
+2025-01-24 03:20:00,Douala,Business,400L,Female,2,3-4hrs,Exam prep,5,1,Often,2,3,3,not sure
+2025-01-24 04:07:00,Bamenda,Engineering,300L,Female,2,3-4hrs,Coding,2,4,Sometimes,5,4,3,yes
+2025-01-24 04:54:00,Bamenda,Social Sciences,200L,Female,2,3-4hrs,Summarising notes,3,3,Never,5,5,1,yes
+2025-01-24 05:41:00,Buea,Engineering,100L,Female,0,5hrs or more,Coding,5,2,Never,4,5,4,not sure
+2025-01-24 06:28:00,Yaounde,Social Sciences,100L,Female,3,5hrs or more,Research,2,1,Sometimes,1,5,3,no
+2025-01-24 07:15:00,Buea,Law,Masters,Male,4 or more,1-2hrs,Coding,2,3,Never,3,1,2,no
+2025-01-24 08:02:00,Bamenda,Business,200L,Male,2,3-4hrs,Summarising notes,5,4,Never,4,2,4,no
+2025-01-24 08:49:00,Bamenda,Engineering,200L,Male,3,5hrs or more,Assignments,3,4,Sometimes,2,4,4,no
+2025-01-24 09:36:00,Buea,Engineering,200L,Male,3,5hrs or more,Coding,4,3,Once or twice,5,5,3,no
+2025-01-24 10:23:00,Yaounde,Engineering,200L,Female,4 or more,5hrs or more,Summarising notes,1,1,Often,4,3,2,no
+2025-01-24 11:10:00,Buea,Business,100L,Female,2,1-2hrs,Research,4,1,Sometimes,1,3,4,no
+2025-01-24 11:57:00,Buea,Business,300L,Female,2,1-2hrs,Exam prep,3,1,Never,5,4,2,no
+2025-01-24 12:44:00,Douala,Social Sciences,100L,Male,2,3-4hrs,Assignments,1,2,Often,5,1,2,no
+2025-01-24 13:31:00,Bamenda,Law,400L,Female,3,3-4hrs,Research,4,1,Never,1,3,4,not sure
+2025-01-24 14:18:00,Buea,Law,200L,Female,4 or more,3-4hrs,Assignments,3,2,Once or twice,3,3,1,yes
+2025-01-24 15:05:00,Bamenda,Engineering,300L,Female,1,3-4hrs,Coding,3,2,Once or twice,3,4,1,no
+2025-01-24 15:52:00,Douala,Business,Masters,Female,2,5hrs or more,Coding,2,5,Never,3,4,1,no
+2025-01-24 16:39:00,Buea,Sciences,300L,Male,4 or more,1-2hrs,Research,2,3,Once or twice,2,3,2,not sure
+2025-01-24 17:26:00,Yaounde,Sciences,300L,Male,4 or more,5hrs or more,Coding,3,4,Never,4,4,1,yes
+2025-01-24 18:13:00,Buea,Social Sciences,200L,Male,4 or more,1-2hrs,Research,2,3,Once or twice,5,4,5,no
+2025-01-24 19:00:00,Buea,Engineering,200L,Male,3,1-2hrs,Coding,5,1,Once or twice,3,4,2,not sure
+2025-01-24 19:47:00,Bamenda,Engineering,300L,Male,2,3-4hrs,Summarising notes,1,3,Sometimes,1,4,2,yes
+2025-01-24 20:34:00,Bamenda,Health,PhD,Female,3,3-4hrs,Research,3,2,Sometimes,4,3,2,not sure
+2025-01-24 21:21:00,Yaounde,Engineering,300L,Female,3,1-2hrs,Exam prep,2,3,Never,3,2,5,yes
+2025-01-24 22:08:00,Yaounde,Law,300L,Female,1,1-2hrs,Research,3,2,Once or twice,5,2,3,no
+2025-01-24 22:55:00,Other,Engineering,400L,Female,3,5hrs or more,Assignments,5,5,Once or twice,3,2,3,not sure
+2025-01-24 23:42:00,Bamenda,Sciences,300L,Male,3,1-2hrs,Summarising notes,2,2,Never,2,3,5,no
+2025-01-25 00:29:00,Bamenda,Engineering,100L,Female,1,3-4hrs,Other,5,2,Sometimes,2,5,3,no
+2025-01-25 01:16:00,Douala,Sciences,300L,Male,4 or more,3-4hrs,Research,2,5,Sometimes,4,4,3,yes
+2025-01-25 02:03:00,Buea,Health,Masters,Male,3,3-4hrs,Assignments,4,1,Never,2,4,2,not sure
+2025-01-25 02:50:00,Bamenda,Engineering,200L,Male,4 or more,3-4hrs,Research,4,3,Once or twice,4,3,3,no
+2025-01-25 03:37:00,Buea,Social Sciences,400L,Male,0,1-2hrs,Summarising notes,5,3,Never,2,3,3,yes
+2025-01-25 04:24:00,Buea,Sciences,200L,Male,2,3-4hrs,Assignments,4,4,Sometimes,3,3,4,no
+2025-01-25 05:11:00,Other,Law,300L,Male,3,1-2hrs,Coding,4,5,Never,3,2,2,no
+2025-01-25 05:58:00,Douala,Other,100L,Male,2,3-4hrs,Other,2,5,Often,5,1,3,yes
+2025-01-25 06:45:00,Yaounde,Health,300L,Female,3,1-2hrs,Summarising notes,2,1,Sometimes,5,4,1,yes
+2025-01-25 07:32:00,Bamenda,Engineering,400L,Male,3,3-4hrs,Research,5,4,Once or twice,2,5,2,yes
+2025-01-25 08:19:00,Buea,Engineering,200L,Male,1,1-2hrs,Research,3,3,Once or twice,3,2,3,no
+2025-01-25 09:06:00,Buea,Engineering,300L,Male,3,1-2hrs,Assignments,3,3,Often,2,1,5,no
+2025-01-25 09:53:00,Buea,Social Sciences,400L,Female,3,1-2hrs,Exam prep,4,1,Once or twice,3,4,3,no
+2025-01-25 10:40:00,Bamenda,Engineering,Masters,Male,2,1-2hrs,Research,3,3,Never,3,3,4,not sure
+2025-01-25 11:27:00,Yaounde,Social Sciences,200L,Male,4 or more,5hrs or more,Research,5,5,Once or twice,5,5,2,not sure
+2025-01-25 12:14:00,Yaounde,Social Sciences,200L,Male,4 or more,1-2hrs,Coding,4,5,Sometimes,5,4,2,no
+2025-01-25 13:01:00,Buea,Sciences,200L,Male,3,5hrs or more,Research,4,2,Sometimes,3,5,1,yes
+2025-01-25 13:48:00,Other,Health,PhD,Male,3,5hrs or more,Coding,5,1,Sometimes,3,3,3,no
+2025-01-25 14:35:00,Yaounde,Engineering,Masters,Male,2,3-4hrs,Assignments,1,2,Often,5,4,2,no
+2025-01-25 15:22:00,Yaounde,Engineering,300L,Male,4 or more,1-2hrs,Coding,3,4,Often,4,3,2,no
+2025-01-25 16:09:00,Yaounde,Health,400L,Male,3,1-2hrs,Exam prep,3,3,Often,1,4,4,no
+2025-01-25 16:56:00,Bamenda,Social Sciences,300L,Male,3,5hrs or more,Coding,2,2,Never,3,3,1,no
+2025-01-25 17:43:00,Buea,Law,300L,Female,4 or more,1-2hrs,Other,4,1,Once or twice,3,2,3,not sure
+2025-01-25 18:30:00,Bamenda,Sciences,100L,Female,2,Less than 1hr,Assignments,5,2,Sometimes,2,3,3,yes
+2025-01-25 19:17:00,Douala,Engineering,400L,Male,4 or more,3-4hrs,Summarising notes,3,2,Sometimes,2,3,3,no
+2025-01-25 20:04:00,Buea,Business,100L,Male,1,5hrs or more,Summarising notes,3,5,Sometimes,1,5,3,yes
+2025-01-25 20:51:00,Buea,Health,400L,Female,2,5hrs or more,Summarising notes,5,3,Never,4,4,3,not sure
+2025-01-25 21:38:00,Buea,Law,400L,Male,2,1-2hrs,Research,3,2,Sometimes,2,4,2,yes
+2025-01-25 22:25:00,Buea,Engineering,400L,Male,4 or more,3-4hrs,Research,3,3,Sometimes,1,2,4,yes
+2025-01-25 23:12:00,Douala,Social Sciences,100L,Female,4 or more,1-2hrs,Assignments,3,1,Never,2,4,5,no
+2025-01-25 23:59:00,Yaounde,Sciences,200L,Male,3,1-2hrs,Research,5,5,Once or twice,4,3,2,no
+2025-01-26 00:46:00,Bamenda,Engineering,200L,Male,3,5hrs or more,Assignments,4,2,Never,5,5,1,yes
+2025-01-26 01:33:00,Buea,Business,200L,Male,3,1-2hrs,Coding,4,2,Once or twice,3,5,5,no
+2025-01-26 02:20:00,Bamenda,Engineering,100L,Female,4 or more,1-2hrs,Assignments,5,2,Never,3,1,3,no
+2025-01-26 03:07:00,Bamenda,Other,Masters,Male,2,Less than 1hr,Assignments,3,3,Once or twice,5,5,3,yes
+2025-01-26 03:54:00,Buea,Sciences,300L,Female,2,5hrs or more,Summarising notes,3,3,Once or twice,2,1,3,no
+2025-01-26 04:41:00,Bamenda,Engineering,200L,Female,1,5hrs or more,Summarising notes,5,3,Sometimes,2,3,2,not sure
+2025-01-26 05:28:00,Bamenda,Social Sciences,200L,Male,4 or more,3-4hrs,Exam prep,3,2,Sometimes,3,4,3,no
+2025-01-26 06:15:00,Yaounde,Business,300L,Male,3,3-4hrs,Summarising notes,4,2,Sometimes,2,2,3,no
+2025-01-26 07:02:00,Yaounde,Health,300L,Male,2,1-2hrs,Research,5,1,Never,3,4,2,no
+2025-01-26 07:49:00,Buea,Business,300L,Male,0,3-4hrs,Coding,4,3,Never,5,1,3,no
+2025-01-26 08:36:00,Bamenda,Law,Masters,Male,4 or more,1-2hrs,Summarising notes,4,1,Often,4,2,4,yes
+2025-01-26 09:23:00,Yaounde,Law,300L,Female,0,Less than 1hr,Assignments,5,3,Never,3,4,3,no
+2025-01-26 10:10:00,Bamenda,Business,PhD,Female,3,3-4hrs,Summarising notes,5,4,Often,5,4,1,not sure
+2025-01-26 10:57:00,Douala,Engineering,400L,Female,4 or more,5hrs or more,Exam prep,3,4,Sometimes,1,5,3,not sure
+2025-01-26 11:44:00,Yaounde,Social Sciences,200L,Male,2,Less than 1hr,Research,1,2,Once or twice,2,4,4,no
+2025-01-26 12:31:00,Buea,Engineering,Masters,Female,2,1-2hrs,Research,3,2,Often,4,4,4,yes
+2025-01-26 13:18:00,Buea,Other,100L,Female,3,1-2hrs,Assignments,4,1,Never,4,3,4,yes
+2025-01-26 14:05:00,Yaounde,Other,400L,Female,4 or more,1-2hrs,Assignments,3,3,Once or twice,1,1,2,no
+2025-01-26 14:52:00,Buea,Engineering,200L,Male,3,5hrs or more,Research,4,4,Sometimes,3,2,4,no
+2025-01-26 15:39:00,Yaounde,Health,400L,Female,4 or more,3-4hrs,Summarising notes,3,2,Once or twice,4,4,4,yes
+2025-01-26 16:26:00,Other,Other,400L,Male,1,3-4hrs,Assignments,4,2,Often,4,4,1,not sure
+2025-01-26 17:13:00,Yaounde,Engineering,400L,Male,3,3-4hrs,Exam prep,2,4,Never,4,3,3,no
+2025-01-26 18:00:00,Bamenda,Social Sciences,400L,Male,3,1-2hrs,Coding,4,4,Once or twice,3,4,3,not sure
+2025-01-26 18:47:00,Yaounde,Business,200L,Female,4 or more,3-4hrs,Summarising notes,4,2,Once or twice,1,3,4,not sure
+2025-01-26 19:34:00,Bamenda,Engineering,100L,Female,1,3-4hrs,Coding,2,3,Sometimes,3,1,2,not sure
+2025-01-26 20:21:00,Bamenda,Law,300L,Male,4 or more,3-4hrs,Assignments,3,1,Never,2,2,3,no
+2025-01-26 21:08:00,Other,Engineering,200L,Male,3,5hrs or more,Summarising notes,4,1,Once or twice,5,5,5,no
+2025-01-26 21:55:00,Bamenda,Other,400L,Male,2,3-4hrs,Coding,3,5,Sometimes,3,4,4,no
+2025-01-26 22:42:00,Other,Other,200L,Male,1,1-2hrs,Coding,2,4,Never,3,5,5,no
+2025-01-26 23:29:00,Other,Other,PhD,Male,4 or more,5hrs or more,Coding,5,4,Sometimes,4,2,5,no
+2025-01-27 00:16:00,Buea,Sciences,300L,Male,1,1-2hrs,Research,4,1,Once or twice,3,5,1,not sure
+2025-01-27 01:03:00,Buea,Business,400L,Female,2,Less than 1hr,Exam prep,5,4,Sometimes,3,2,4,no
+2025-01-27 01:50:00,Buea,Business,100L,Male,2,1-2hrs,Assignments,3,2,Sometimes,4,1,3,not sure
+2025-01-27 02:37:00,Buea,Sciences,400L,Male,4 or more,1-2hrs,Exam prep,3,2,Never,5,5,5,not sure
+2025-01-27 03:24:00,Buea,Business,Masters,Male,3,3-4hrs,Other,5,3,Once or twice,4,3,2,yes
+2025-01-27 04:11:00,Yaounde,Engineering,300L,Female,4 or more,3-4hrs,Assignments,4,1,Often,1,4,5,yes
+2025-01-27 04:58:00,Buea,Social Sciences,300L,Female,2,5hrs or more,Coding,4,4,Once or twice,4,2,4,no
+2025-01-27 05:45:00,Bamenda,Engineering,400L,Female,3,3-4hrs,Assignments,3,3,Often,4,4,4,no
+2025-01-27 06:32:00,Douala,Engineering,200L,Male,3,3-4hrs,Research,3,1,Once or twice,2,5,1,not sure
+2025-01-27 07:19:00,Buea,Engineering,300L,Female,4 or more,Less than 1hr,Summarising notes,2,1,Never,2,3,2,no
+2025-01-27 08:06:00,Douala,Law,200L,Male,4 or more,Less than 1hr,Summarising notes,2,1,Once or twice,5,4,4,no
+2025-01-27 08:53:00,Buea,Sciences,100L,Female,0,3-4hrs,Exam prep,1,1,Often,1,2,1,no
+2025-01-27 09:40:00,Buea,Health,200L,Female,3,3-4hrs,Coding,1,3,Once or twice,4,4,4,yes
+2025-01-27 10:27:00,Yaounde,Engineering,100L,Female,1,5hrs or more,Summarising notes,5,4,Often,3,3,1,no
+2025-01-27 11:14:00,Yaounde,Sciences,100L,Female,3,1-2hrs,Coding,3,1,Often,3,2,4,not sure
+2025-01-27 12:01:00,Douala,Social Sciences,100L,Female,2,Less than 1hr,Other,4,1,Once or twice,1,3,3,yes
+2025-01-27 12:48:00,Yaounde,Health,PhD,Male,2,3-4hrs,Assignments,5,3,Never,4,2,4,no
+2025-01-27 13:35:00,Douala,Sciences,300L,Female,2,1-2hrs,Other,4,4,Sometimes,3,5,4,no
+2025-01-27 14:22:00,Buea,Law,PhD,Male,3,Less than 1hr,Assignments,2,2,Once or twice,3,3,3,yes
+2025-01-27 15:09:00,Buea,Business,300L,Male,2,3-4hrs,Coding,4,2,Sometimes,4,3,2,yes
+2025-01-27 15:56:00,Douala,Law,200L,Male,3,Less than 1hr,Research,4,3,Once or twice,4,3,1,not sure
+2025-01-27 16:43:00,Douala,Engineering,300L,Male,2,3-4hrs,Assignments,4,2,Once or twice,5,3,3,no
+2025-01-27 17:30:00,Other,Engineering,300L,Male,1,1-2hrs,Research,4,1,Sometimes,3,4,3,yes
+2025-01-27 18:17:00,Bamenda,Business,100L,Male,4 or more,1-2hrs,Coding,5,3,Once or twice,3,5,4,yes
+2025-01-27 19:04:00,Bamenda,Engineering,300L,Male,2,1-2hrs,Research,4,3,Once or twice,5,3,3,no
+2025-01-27 19:51:00,Douala,Business,200L,Female,2,5hrs or more,Assignments,3,3,Once or twice,4,5,3,no
+2025-01-27 20:38:00,Bamenda,Social Sciences,300L,Male,3,1-2hrs,Summarising notes,4,3,Once or twice,3,4,3,no
+2025-01-27 21:25:00,Other,Other,300L,Male,2,3-4hrs,Exam prep,1,3,Once or twice,2,2,1,yes
+2025-01-27 22:12:00,Douala,Health,200L,Female,1,1-2hrs,Research,5,1,Sometimes,5,4,3,not sure
+2025-01-27 22:59:00,Bamenda,Other,100L,Male,2,5hrs or more,Assignments,2,2,Once or twice,3,3,5,no
+2025-01-27 23:46:00,Douala,Sciences,400L,Female,4 or more,1-2hrs,Research,3,1,Once or twice,4,4,5,no
+2025-01-28 00:33:00,Douala,Health,300L,Female,3,3-4hrs,Assignments,5,1,Sometimes,3,5,3,no
+2025-01-28 01:20:00,Buea,Sciences,100L,Female,3,3-4hrs,Coding,4,3,Never,2,3,3,no
+2025-01-28 02:07:00,Other,Sciences,PhD,Female,3,5hrs or more,Coding,3,4,Never,4,5,4,not sure
+2025-01-28 02:54:00,Bamenda,Law,100L,Male,1,1-2hrs,Summarising notes,3,5,Often,1,4,3,not sure
+2025-01-28 03:41:00,Douala,Business,400L,Female,2,Less than 1hr,Research,5,3,Sometimes,3,3,1,no
+2025-01-28 04:28:00,Bamenda,Other,PhD,Male,3,Less than 1hr,Coding,3,1,Once or twice,3,4,1,not sure
+2025-01-28 05:15:00,Douala,Health,200L,Male,1,5hrs or more,Summarising notes,5,1,Sometimes,3,3,3,not sure
+2025-01-28 06:02:00,Bamenda,Sciences,100L,Female,2,3-4hrs,Coding,2,4,Never,4,5,5,not sure
+2025-01-28 06:49:00,Buea,Sciences,100L,Male,2,5hrs or more,Coding,4,3,Sometimes,4,4,4,yes
+2025-01-28 07:36:00,Other,Health,200L,Female,2,1-2hrs,Coding,5,3,Once or twice,4,1,1,no
+2025-01-28 08:23:00,Buea,Engineering,100L,Female,4 or more,1-2hrs,Summarising notes,2,4,Once or twice,1,3,2,no
+2025-01-28 09:10:00,Bamenda,Engineering,400L,Female,1,Less than 1hr,Research,3,3,Once or twice,2,4,4,not sure
+2025-01-28 09:57:00,Other,Sciences,100L,Female,3,5hrs or more,Other,2,4,Never,3,1,4,yes
+2025-01-28 10:44:00,Other,Engineering,300L,Male,1,3-4hrs,Summarising notes,4,1,Never,5,1,4,no
+2025-01-28 11:31:00,Yaounde,Engineering,PhD,Male,4 or more,5hrs or more,Summarising notes,4,3,Often,5,3,4,no
+2025-01-28 12:18:00,Yaounde,Engineering,400L,Female,1,1-2hrs,Assignments,4,4,Once or twice,5,3,1,no
+2025-01-28 13:05:00,Bamenda,Engineering,300L,Male,2,3-4hrs,Summarising notes,2,2,Once or twice,3,3,4,no
+2025-01-28 13:52:00,Buea,Engineering,200L,Female,3,3-4hrs,Summarising notes,2,3,Never,3,3,4,not sure
+2025-01-28 14:39:00,Bamenda,Other,300L,Female,3,1-2hrs,Assignments,1,2,Never,3,2,2,no
+2025-01-28 15:26:00,Yaounde,Sciences,300L,Female,2,5hrs or more,Assignments,3,5,Sometimes,2,4,4,not sure
+2025-01-28 16:13:00,Douala,Sciences,300L,Male,2,5hrs or more,Summarising notes,4,1,Once or twice,1,3,2,no
+2025-01-28 17:00:00,Douala,Law,100L,Male,2,5hrs or more,Coding,5,3,Once or twice,5,2,1,no
+2025-01-28 17:47:00,Douala,Engineering,Masters,Male,2,3-4hrs,Summarising notes,4,1,Never,2,3,2,no
+2025-01-28 18:34:00,Buea,Other,300L,Male,2,1-2hrs,Assignments,3,3,Sometimes,2,4,2,yes
+2025-01-28 19:21:00,Bamenda,Health,200L,Female,2,1-2hrs,Coding,5,1,Never,1,1,3,no
+2025-01-28 20:08:00,Buea,Engineering,200L,Male,2,5hrs or more,Assignments,4,2,Never,5,2,3,no
+2025-01-28 20:55:00,Bamenda,Sciences,300L,Male,2,Less than 1hr,Research,5,2,Once or twice,4,1,3,no
+2025-01-28 21:42:00,Bamenda,Business,400L,Male,3,3-4hrs,Assignments,4,5,Never,4,5,3,no
+2025-01-28 22:29:00,Douala,Other,400L,Female,4 or more,3-4hrs,Assignments,3,1,Never,5,4,2,no
+2025-01-28 23:16:00,Bamenda,Sciences,400L,Female,3,3-4hrs,Assignments,1,1,Sometimes,3,4,1,yes
+2025-01-29 00:03:00,Buea,Law,100L,Male,1,5hrs or more,Research,4,4,Sometimes,4,4,4,yes
+2025-01-29 00:50:00,Buea,Engineering,300L,Male,1,1-2hrs,Assignments,2,3,Sometimes,1,4,3,no
+2025-01-29 01:37:00,Douala,Other,300L,Male,4 or more,1-2hrs,Research,3,5,Once or twice,2,3,2,no
+2025-01-29 02:24:00,Yaounde,Engineering,100L,Male,2,Less than 1hr,Summarising notes,4,1,Never,5,4,5,yes
+2025-01-29 03:11:00,Buea,Other,200L,Female,1,3-4hrs,Summarising notes,4,3,Never,4,1,4,no
+2025-01-29 03:58:00,Buea,Law,400L,Female,3,1-2hrs,Research,4,2,Often,3,4,5,no
+2025-01-29 04:45:00,Yaounde,Law,100L,Male,3,1-2hrs,Exam prep,2,1,Once or twice,3,4,3,no
+2025-01-29 05:32:00,Buea,Social Sciences,300L,Male,3,5hrs or more,Assignments,3,3,Sometimes,3,3,2,no
+2025-01-29 06:19:00,Douala,Engineering,200L,Female,2,5hrs or more,Summarising notes,4,3,Never,1,3,4,no
+2025-01-29 07:06:00,Yaounde,Engineering,100L,Male,0,1-2hrs,Assignments,5,4,Once or twice,2,3,2,no
+2025-01-29 07:53:00,Buea,Engineering,200L,Female,4 or more,1-2hrs,Assignments,4,2,Never,2,4,3,not sure
+2025-01-29 08:40:00,Buea,Engineering,PhD,Male,2,5hrs or more,Summarising notes,5,2,Once or twice,2,4,1,no
+2025-01-29 09:27:00,Other,Health,400L,Male,3,Less than 1hr,Summarising notes,4,2,Often,4,5,4,no
+2025-01-29 10:14:00,Bamenda,Sciences,Masters,Male,3,Less than 1hr,Exam prep,4,5,Often,2,3,2,no
+2025-01-29 11:01:00,Bamenda,Engineering,300L,Male,3,1-2hrs,Summarising notes,2,2,Once or twice,2,4,5,yes
+2025-01-29 11:48:00,Douala,Other,100L,Female,2,3-4hrs,Other,4,2,Once or twice,3,4,5,no
+2025-01-29 12:35:00,Other,Business,300L,Male,2,1-2hrs,Assignments,4,2,Often,5,5,3,no
+2025-01-29 13:22:00,Other,Other,300L,Male,3,5hrs or more,Assignments,4,3,Sometimes,2,3,4,not sure
+2025-01-29 14:09:00,Douala,Other,400L,Male,4 or more,3-4hrs,Assignments,3,2,Never,1,3,4,not sure
+2025-01-29 14:56:00,Bamenda,Engineering,100L,Male,4 or more,3-4hrs,Assignments,4,5,Once or twice,3,4,4,no
+2025-01-29 15:43:00,Buea,Sciences,300L,Male,1,1-2hrs,Summarising notes,3,2,Never,4,4,3,no
+2025-01-29 16:30:00,Douala,Health,200L,Male,1,3-4hrs,Coding,4,4,Once or twice,3,5,4,yes
+2025-01-29 17:17:00,Yaounde,Law,200L,Female,4 or more,3-4hrs,Assignments,2,1,Once or twice,4,1,3,no
+2025-01-29 18:04:00,Bamenda,Engineering,400L,Male,3,3-4hrs,Exam prep,5,3,Once or twice,5,1,5,no
+2025-01-29 18:51:00,Other,Business,300L,Male,4 or more,3-4hrs,Exam prep,2,5,Once or twice,4,5,3,no
+2025-01-29 19:38:00,Buea,Engineering,200L,Female,2,3-4hrs,Research,2,1,Never,4,3,3,no
+2025-01-29 20:25:00,Bamenda,Engineering,200L,Male,3,5hrs or more,Assignments,3,5,Once or twice,3,4,4,yes
+2025-01-29 21:12:00,Buea,Social Sciences,300L,Female,3,5hrs or more,Assignments,4,2,Sometimes,1,3,4,not sure
+2025-01-29 21:59:00,Bamenda,Social Sciences,400L,Male,3,3-4hrs,Assignments,3,5,Sometimes,5,2,3,yes
+2025-01-29 22:46:00,Buea,Social Sciences,Masters,Female,2,Less than 1hr,Assignments,3,3,Once or twice,3,4,2,not sure
+2025-01-29 23:33:00,Buea,Engineering,Masters,Female,0,Less than 1hr,Summarising notes,4,2,Often,2,4,3,not sure
+2025-01-30 00:20:00,Buea,Business,400L,Female,3,1-2hrs,Assignments,3,1,Often,4,3,5,no
+2025-01-30 01:07:00,Yaounde,Engineering,200L,Female,2,3-4hrs,Research,5,2,Never,3,3,4,no
+2025-01-30 01:54:00,Yaounde,Engineering,400L,Male,2,1-2hrs,Other,5,1,Never,4,5,4,no
+2025-01-30 02:41:00,Yaounde,Business,300L,Female,4 or more,1-2hrs,Coding,4,1,Sometimes,4,1,1,no
+2025-01-30 03:28:00,Other,Other,200L,Male,2,5hrs or more,Exam prep,3,1,Sometimes,3,5,3,no
+2025-01-30 04:15:00,Bamenda,Business,400L,Male,4 or more,5hrs or more,Assignments,4,2,Often,5,3,4,no
+2025-01-30 05:02:00,Buea,Business,100L,Male,1,5hrs or more,Research,1,4,Often,2,4,4,no
+2025-01-30 05:49:00,Douala,Law,Masters,Male,3,1-2hrs,Summarising notes,3,1,Sometimes,3,5,1,no
+2025-01-30 06:36:00,Buea,Social Sciences,300L,Male,4 or more,3-4hrs,Assignments,3,1,Once or twice,3,4,5,no
+2025-01-30 07:23:00,Other,Engineering,300L,Female,1,1-2hrs,Assignments,5,3,Never,4,3,3,no
+2025-01-30 08:10:00,Buea,Sciences,300L,Male,0,1-2hrs,Coding,1,1,Never,4,4,2,no
+2025-01-30 08:57:00,Other,Sciences,Masters,Female,2,1-2hrs,Coding,4,1,Once or twice,3,3,3,yes
+2025-01-30 09:44:00,Buea,Engineering,300L,Female,1,1-2hrs,Research,4,1,Sometimes,4,3,2,yes
+2025-01-30 10:31:00,Douala,Health,300L,Male,3,3-4hrs,Summarising notes,3,5,Once or twice,2,5,3,no
+2025-01-30 11:18:00,Bamenda,Social Sciences,100L,Male,4 or more,5hrs or more,Research,2,4,Sometimes,5,4,1,yes
+2025-01-30 12:05:00,Other,Engineering,300L,Male,2,Less than 1hr,Assignments,5,2,Never,3,4,2,yes
+2025-01-30 12:52:00,Buea,Engineering,200L,Male,2,3-4hrs,Research,4,3,Once or twice,4,3,4,not sure
+2025-01-30 13:39:00,Yaounde,Law,400L,Male,2,3-4hrs,Assignments,4,3,Never,1,1,2,yes
+2025-01-30 14:26:00,Other,Engineering,300L,Male,3,1-2hrs,Assignments,3,3,Once or twice,2,1,2,no
+2025-01-30 15:13:00,Bamenda,Business,400L,Male,0,3-4hrs,Other,3,3,Sometimes,3,4,3,no
+2025-01-30 16:00:00,Yaounde,Social Sciences,100L,Female,3,1-2hrs,Summarising notes,3,3,Sometimes,5,4,3,not sure
+2025-01-30 16:47:00,Yaounde,Social Sciences,100L,Female,3,3-4hrs,Coding,1,2,Often,3,4,4,no
+2025-01-30 17:34:00,Bamenda,Social Sciences,400L,Male,3,3-4hrs,Research,2,1,Never,5,5,3,no
+2025-01-30 18:21:00,Yaounde,Business,100L,Female,2,1-2hrs,Research,5,2,Once or twice,3,1,4,no
+2025-01-30 19:08:00,Yaounde,Sciences,100L,Male,3,Less than 1hr,Assignments,3,4,Once or twice,3,3,4,no
+2025-01-30 19:55:00,Other,Law,100L,Male,1,3-4hrs,Assignments,2,3,Once or twice,2,3,2,no
+2025-01-30 20:42:00,Buea,Social Sciences,Masters,Female,1,5hrs or more,Assignments,4,4,Often,4,3,2,yes
+2025-01-30 21:29:00,Buea,Engineering,400L,Male,4 or more,1-2hrs,Coding,4,5,Sometimes,2,1,3,not sure
+2025-01-30 22:16:00,Other,Business,200L,Male,3,3-4hrs,Coding,1,1,Often,5,5,3,no
+2025-01-30 23:03:00,Douala,Health,200L,Female,0,3-4hrs,Summarising notes,4,3,Never,5,2,4,no
+2025-01-30 23:50:00,Bamenda,Law,200L,Female,2,5hrs or more,Summarising notes,2,3,Often,5,5,3,no
+2025-01-31 00:37:00,Yaounde,Business,400L,Female,2,5hrs or more,Exam prep,1,5,Never,3,3,3,no
+2025-01-31 01:24:00,Buea,Business,300L,Female,2,3-4hrs,Assignments,1,5,Often,4,5,2,not sure
+2025-01-31 02:11:00,Buea,Health,200L,Female,2,3-4hrs,Research,5,3,Once or twice,4,4,2,no
+2025-01-31 02:58:00,Bamenda,Business,200L,Male,1,5hrs or more,Research,2,2,Once or twice,2,5,3,no
+2025-01-31 03:45:00,Bamenda,Law,100L,Male,2,1-2hrs,Coding,1,4,Once or twice,4,1,3,yes
+2025-01-31 04:32:00,Yaounde,Law,300L,Male,3,1-2hrs,Other,3,1,Often,1,4,3,not sure
+2025-01-31 05:19:00,Buea,Law,400L,Male,3,Less than 1hr,Assignments,5,4,Never,3,5,2,no
+2025-01-31 06:06:00,Other,Health,200L,Male,3,5hrs or more,Exam prep,3,5,Once or twice,2,2,4,yes
+2025-01-31 06:53:00,Other,Engineering,100L,Male,1,5hrs or more,Exam prep,3,2,Often,2,2,5,yes
+2025-01-31 07:40:00,Yaounde,Business,100L,Female,4 or more,Less than 1hr,Assignments,1,3,Once or twice,3,3,2,no
+2025-01-31 08:27:00,Bamenda,Business,PhD,Female,4 or more,3-4hrs,Research,3,2,Never,3,5,3,not sure
+2025-01-31 09:14:00,Bamenda,Engineering,200L,Female,4 or more,3-4hrs,Research,4,2,Once or twice,4,4,5,no
+2025-01-31 10:01:00,Douala,Business,400L,Male,4 or more,Less than 1hr,Other,4,2,Once or twice,1,3,3,no
+2025-01-31 10:48:00,Yaounde,Engineering,300L,Female,4 or more,5hrs or more,Assignments,3,4,Often,3,2,3,yes
+2025-01-31 11:35:00,Buea,Sciences,200L,Male,3,1-2hrs,Coding,3,5,Sometimes,2,1,1,no
+2025-01-31 12:22:00,Other,Health,200L,Female,2,Less than 1hr,Research,2,5,Once or twice,4,5,4,no
+2025-01-31 13:09:00,Douala,Engineering,100L,Male,3,3-4hrs,Coding,3,1,Often,4,2,1,not sure
+2025-01-31 13:56:00,Other,Business,300L,Female,3,3-4hrs,Research,2,4,Once or twice,3,4,5,no
+2025-01-31 14:43:00,Yaounde,Business,400L,Male,3,Less than 1hr,Summarising notes,4,3,Never,4,5,4,not sure
+2025-01-31 15:30:00,Yaounde,Social Sciences,300L,Female,3,3-4hrs,Exam prep,5,2,Never,3,2,4,no
+2025-01-31 16:17:00,Bamenda,Engineering,300L,Female,1,3-4hrs,Coding,5,1,Once or twice,4,4,4,yes
+2025-01-31 17:04:00,Other,Engineering,100L,Male,2,Less than 1hr,Exam prep,5,2,Never,3,1,3,no
+2025-01-31 17:51:00,Douala,Law,PhD,Male,4 or more,1-2hrs,Assignments,4,5,Often,3,4,3,no
+2025-01-31 18:38:00,Buea,Other,400L,Female,3,3-4hrs,Coding,4,3,Sometimes,4,2,5,not sure
+2025-01-31 19:25:00,Buea,Law,200L,Male,3,1-2hrs,Assignments,3,3,Never,1,4,5,not sure
+2025-01-31 20:12:00,Bamenda,Engineering,PhD,Female,2,5hrs or more,Research,4,2,Once or twice,4,3,3,yes
+2025-01-31 20:59:00,Douala,Law,300L,Female,2,5hrs or more,Summarising notes,3,3,Sometimes,4,3,5,yes
+2025-01-31 21:46:00,Other,Social Sciences,300L,Male,4 or more,5hrs or more,Research,3,1,Often,3,4,3,yes
+2025-01-31 22:33:00,Buea,Health,400L,Male,3,1-2hrs,Summarising notes,4,2,Often,1,2,3,not sure
+2025-01-31 23:20:00,Yaounde,Engineering,400L,Male,4 or more,5hrs or more,Other,3,3,Once or twice,1,4,3,not sure
+2025-02-01 00:07:00,Bamenda,Health,300L,Female,2,3-4hrs,Assignments,3,1,Sometimes,5,3,2,not sure
+2025-02-01 00:54:00,Other,Social Sciences,100L,Male,3,1-2hrs,Coding,5,4,Once or twice,4,4,1,no
+2025-02-01 01:41:00,Douala,Other,200L,Male,2,Less than 1hr,Research,1,2,Once or twice,2,2,2,no
+2025-02-01 02:28:00,Douala,Sciences,Masters,Male,3,Less than 1hr,Assignments,3,3,Never,3,4,3,no
+2025-02-01 03:15:00,Bamenda,Law,200L,Female,2,3-4hrs,Assignments,5,2,Never,4,2,3,no
+2025-02-01 04:02:00,Bamenda,Other,200L,Female,2,3-4hrs,Exam prep,4,3,Once or twice,5,3,3,no
+2025-02-01 04:49:00,Buea,Engineering,300L,Female,3,1-2hrs,Exam prep,4,1,Never,1,3,5,yes
+2025-02-01 05:36:00,Buea,Other,300L,Male,4 or more,3-4hrs,Exam prep,3,1,Never,2,4,3,yes
+2025-02-01 06:23:00,Douala,Law,300L,Female,1,1-2hrs,Other,3,5,Sometimes,5,3,3,not sure
+2025-02-01 07:10:00,Douala,Engineering,Masters,Female,4 or more,3-4hrs,Assignments,5,2,Never,1,5,2,not sure
+2025-02-01 07:57:00,Other,Sciences,200L,Female,2,1-2hrs,Research,4,4,Once or twice,2,5,1,no
+2025-02-01 08:44:00,Other,Health,100L,Female,2,5hrs or more,Coding,4,5,Once or twice,5,2,4,no
+2025-02-01 09:31:00,Yaounde,Engineering,200L,Male,0,5hrs or more,Summarising notes,2,1,Often,4,4,3,no
+2025-02-01 10:18:00,Douala,Social Sciences,Masters,Male,2,3-4hrs,Research,1,2,Once or twice,2,2,4,no
+2025-02-01 11:05:00,Other,Sciences,300L,Female,3,1-2hrs,Research,5,3,Never,1,3,2,not sure
+2025-02-01 11:52:00,Douala,Law,200L,Male,1,1-2hrs,Summarising notes,3,5,Once or twice,1,4,3,not sure
+2025-02-01 12:39:00,Buea,Engineering,400L,Female,2,5hrs or more,Summarising notes,4,5,Sometimes,2,4,2,no
+2025-02-01 13:26:00,Bamenda,Business,400L,Female,4 or more,1-2hrs,Assignments,1,3,Often,5,4,2,yes
+2025-02-01 14:13:00,Buea,Other,400L,Male,1,1-2hrs,Summarising notes,4,4,Once or twice,3,3,1,no
+2025-02-01 15:00:00,Other,Other,Masters,Female,3,Less than 1hr,Summarising notes,5,1,Once or twice,4,3,2,no
+2025-02-01 15:47:00,Yaounde,Health,200L,Male,2,3-4hrs,Summarising notes,4,5,Often,5,2,3,no
+2025-02-01 16:34:00,Buea,Engineering,400L,Male,3,3-4hrs,Assignments,2,5,Never,3,4,2,not sure
+2025-02-01 17:21:00,Yaounde,Health,300L,Female,2,5hrs or more,Coding,4,1,Sometimes,2,3,5,no
+2025-02-01 18:08:00,Yaounde,Engineering,400L,Female,1,1-2hrs,Assignments,4,2,Once or twice,3,4,3,yes
+2025-02-01 18:55:00,Bamenda,Engineering,400L,Male,1,1-2hrs,Research,3,1,Never,5,3,2,no
+2025-02-01 19:42:00,Buea,Sciences,400L,Male,1,5hrs or more,Coding,5,2,Once or twice,4,3,2,not sure
+2025-02-01 20:29:00,Yaounde,Social Sciences,300L,Female,1,5hrs or more,Summarising notes,4,4,Never,1,3,3,yes
+2025-02-01 21:16:00,Bamenda,Health,200L,Female,3,1-2hrs,Research,5,2,Sometimes,4,1,1,no
+2025-02-01 22:03:00,Douala,Law,300L,Female,4 or more,3-4hrs,Coding,4,1,Often,4,3,5,no
+2025-02-01 22:50:00,Bamenda,Sciences,PhD,Male,4 or more,1-2hrs,Summarising notes,2,2,Never,5,4,5,yes
+2025-02-01 23:37:00,Douala,Engineering,Masters,Male,3,5hrs or more,Coding,3,5,Sometimes,2,5,2,no
+2025-02-02 00:24:00,Yaounde,Other,100L,Male,1,Less than 1hr,Coding,2,3,Never,3,3,3,no
+2025-02-02 01:11:00,Yaounde,Sciences,200L,Female,2,5hrs or more,Summarising notes,5,2,Once or twice,5,3,1,no
+2025-02-02 01:58:00,Douala,Sciences,100L,Male,2,3-4hrs,Summarising notes,4,1,Never,3,1,4,not sure
+2025-02-02 02:45:00,Bamenda,Engineering,400L,Male,2,3-4hrs,Assignments,4,5,Often,3,5,3,no
+2025-02-02 03:32:00,Buea,Health,400L,Female,3,Less than 1hr,Research,3,4,Sometimes,1,1,2,yes
+2025-02-02 04:19:00,Buea,Law,200L,Male,3,3-4hrs,Research,2,2,Sometimes,2,5,2,not sure
+2025-02-02 05:06:00,Douala,Engineering,300L,Female,2,1-2hrs,Summarising notes,4,1,Sometimes,3,3,4,no
+2025-02-02 05:53:00,Yaounde,Engineering,400L,Female,2,1-2hrs,Summarising notes,3,1,Sometimes,5,3,3,no
+2025-02-02 06:40:00,Yaounde,Law,400L,Female,4 or more,3-4hrs,Research,2,1,Often,3,5,2,not sure
+2025-02-02 07:27:00,Buea,Law,300L,Male,4 or more,5hrs or more,Assignments,4,3,Sometimes,3,1,4,no
+2025-02-02 08:14:00,Buea,Engineering,300L,Male,2,3-4hrs,Summarising notes,1,5,Often,4,4,3,no
+2025-02-02 09:01:00,Buea,Other,300L,Female,4 or more,3-4hrs,Research,3,2,Once or twice,2,4,5,yes
+2025-02-02 09:48:00,Bamenda,Engineering,200L,Female,4 or more,Less than 1hr,Coding,3,4,Never,3,2,2,no
+2025-02-02 10:35:00,Yaounde,Sciences,300L,Female,2,1-2hrs,Assignments,2,2,Once or twice,4,3,4,yes
+2025-02-02 11:22:00,Bamenda,Other,400L,Male,2,Less than 1hr,Summarising notes,5,3,Never,5,4,4,not sure
+2025-02-02 12:09:00,Bamenda,Sciences,400L,Female,3,3-4hrs,Exam prep,2,3,Once or twice,4,4,2,yes
+2025-02-02 12:56:00,Other,Law,300L,Female,4 or more,5hrs or more,Assignments,2,1,Once or twice,4,1,4,no
+2025-02-02 13:43:00,Bamenda,Sciences,400L,Female,4 or more,3-4hrs,Summarising notes,2,2,Sometimes,2,5,3,not sure
+2025-02-02 14:30:00,Bamenda,Engineering,200L,Female,1,Less than 1hr,Assignments,4,3,Never,5,2,5,no
+2025-02-02 15:17:00,Douala,Other,300L,Female,2,1-2hrs,Summarising notes,3,1,Never,2,3,2,no
+2025-02-02 16:04:00,Bamenda,Sciences,100L,Female,3,3-4hrs,Summarising notes,4,2,Once or twice,4,3,4,no
+2025-02-02 16:51:00,Yaounde,Business,200L,Male,3,1-2hrs,Research,1,3,Often,2,1,3,no
+2025-02-02 17:38:00,Douala,Engineering,400L,Male,1,5hrs or more,Summarising notes,1,5,Once or twice,5,2,5,no
+2025-02-02 18:25:00,Other,Engineering,PhD,Male,4 or more,5hrs or more,Exam prep,3,2,Once or twice,4,5,3,no
+2025-02-02 19:12:00,Buea,Engineering,100L,Male,3,3-4hrs,Assignments,5,4,Sometimes,4,3,5,not sure
+2025-02-02 19:59:00,Other,Law,300L,Male,4 or more,1-2hrs,Assignments,5,2,Sometimes,2,2,5,not sure
+2025-02-02 20:46:00,Bamenda,Sciences,400L,Male,4 or more,1-2hrs,Exam prep,2,4,Never,3,2,2,not sure
+2025-02-02 21:33:00,Buea,Business,200L,Male,3,Less than 1hr,Summarising notes,4,3,Once or twice,4,4,4,not sure
+2025-02-02 22:20:00,Bamenda,Sciences,300L,Male,2,1-2hrs,Exam prep,5,4,Never,4,5,5,no
+2025-02-02 23:07:00,Other,Other,400L,Female,3,1-2hrs,Summarising notes,3,2,Often,2,3,2,no
+2025-02-02 23:54:00,Bamenda,Engineering,300L,Female,1,3-4hrs,Coding,5,3,Never,5,1,3,not sure
+2025-02-03 00:41:00,Bamenda,Business,200L,Male,3,3-4hrs,Research,2,3,Once or twice,5,2,3,no
+2025-02-03 01:28:00,Yaounde,Health,200L,Female,1,Less than 1hr,Coding,5,2,Never,2,1,2,not sure
+2025-02-03 02:15:00,Buea,Health,400L,Male,3,1-2hrs,Exam prep,4,1,Never,4,2,1,no
+2025-02-03 03:02:00,Buea,Business,300L,Male,2,1-2hrs,Summarising notes,5,1,Sometimes,3,3,2,no
+2025-02-03 03:49:00,Buea,Health,100L,Male,1,1-2hrs,Assignments,4,1,Never,3,2,2,no
+2025-02-03 04:36:00,Buea,Law,400L,Male,1,5hrs or more,Research,3,4,Never,3,3,3,not sure
+2025-02-03 05:23:00,Buea,Engineering,100L,Female,0,Less than 1hr,Assignments,5,2,Once or twice,4,3,2,yes
+2025-02-03 06:10:00,Buea,Engineering,400L,Female,3,1-2hrs,Assignments,3,1,Never,4,5,5,no
+2025-02-03 06:57:00,Yaounde,Other,200L,Male,3,1-2hrs,Research,3,3,Never,3,5,4,no
+2025-02-03 07:44:00,Buea,Law,Masters,Male,3,5hrs or more,Summarising notes,4,2,Sometimes,4,4,1,no
+2025-02-03 08:31:00,Bamenda,Health,200L,Male,1,3-4hrs,Summarising notes,4,3,Sometimes,4,3,4,not sure
+2025-02-03 09:18:00,Douala,Social Sciences,200L,Male,1,1-2hrs,Research,5,1,Often,4,3,4,no
+2025-02-03 10:05:00,Bamenda,Engineering,100L,Male,0,3-4hrs,Summarising notes,2,5,Often,1,3,5,no
+2025-02-03 10:52:00,Yaounde,Engineering,200L,Male,1,3-4hrs,Assignments,4,4,Sometimes,5,4,1,no
+2025-02-03 11:39:00,Buea,Law,400L,Female,4 or more,5hrs or more,Assignments,4,4,Never,3,3,2,no
+2025-02-03 12:26:00,Buea,Sciences,PhD,Female,2,1-2hrs,Assignments,1,2,Sometimes,2,5,5,no
+2025-02-03 13:13:00,Buea,Engineering,200L,Male,2,5hrs or more,Summarising notes,3,4,Sometimes,2,5,5,no
+2025-02-03 14:00:00,Buea,Social Sciences,300L,Female,1,5hrs or more,Assignments,3,1,Sometimes,3,3,4,yes
+2025-02-03 14:47:00,Buea,Engineering,400L,Male,2,5hrs or more,Research,3,1,Once or twice,5,4,4,not sure
+2025-02-03 15:34:00,Buea,Social Sciences,Masters,Male,3,3-4hrs,Research,5,1,Never,3,2,1,no
+2025-02-03 16:21:00,Buea,Engineering,300L,Male,3,3-4hrs,Coding,4,3,Sometimes,4,2,3,no
+2025-02-03 17:08:00,Buea,Health,200L,Female,2,1-2hrs,Assignments,4,2,Sometimes,1,3,2,no
+2025-02-03 17:55:00,Bamenda,Sciences,300L,Female,1,3-4hrs,Coding,5,3,Often,3,2,2,no
+2025-02-03 18:42:00,Buea,Sciences,400L,Female,2,3-4hrs,Coding,3,1,Never,5,5,4,no
+2025-02-03 19:29:00,Bamenda,Engineering,100L,Male,2,3-4hrs,Coding,5,2,Never,4,2,2,no
+2025-02-03 20:16:00,Bamenda,Engineering,300L,Female,2,3-4hrs,Exam prep,3,3,Never,2,3,3,no
+2025-02-03 21:03:00,Yaounde,Sciences,200L,Male,4 or more,3-4hrs,Assignments,5,2,Sometimes,3,4,5,no
+2025-02-03 21:50:00,Buea,Sciences,400L,Female,3,5hrs or more,Assignments,2,3,Never,2,4,2,no
+2025-02-03 22:37:00,Douala,Law,100L,Male,3,1-2hrs,Exam prep,5,2,Never,3,3,5,yes
+2025-02-03 23:24:00,Yaounde,Engineering,300L,Male,2,5hrs or more,Summarising notes,2,4,Often,4,5,5,no
+2025-02-04 00:11:00,Buea,Law,300L,Female,2,3-4hrs,Summarising notes,3,3,Never,4,4,3,yes
+2025-02-04 00:58:00,Douala,Business,300L,Female,3,5hrs or more,Coding,4,1,Sometimes,2,3,2,yes
+2025-02-04 01:45:00,Other,Health,100L,Male,3,3-4hrs,Coding,3,2,Once or twice,5,1,3,not sure
+2025-02-04 02:32:00,Buea,Engineering,300L,Female,3,1-2hrs,Exam prep,4,3,Sometimes,4,3,3,no
+2025-02-04 03:19:00,Buea,Social Sciences,300L,Male,1,5hrs or more,Other,3,4,Once or twice,3,5,3,no
+2025-02-04 04:06:00,Douala,Engineering,300L,Female,3,1-2hrs,Coding,4,2,Often,3,4,2,no
+2025-02-04 04:53:00,Yaounde,Engineering,300L,Female,2,5hrs or more,Research,2,2,Often,4,5,5,not sure
+2025-02-04 05:40:00,Buea,Other,300L,Female,4 or more,3-4hrs,Exam prep,1,4,Never,3,3,2,no
+2025-02-04 06:27:00,Buea,Engineering,400L,Female,3,3-4hrs,Assignments,3,3,Never,3,2,4,not sure
+2025-02-04 07:14:00,Bamenda,Social Sciences,200L,Male,3,1-2hrs,Assignments,3,2,Never,3,1,1,no
+2025-02-04 08:01:00,Bamenda,Law,400L,Male,1,3-4hrs,Exam prep,2,2,Sometimes,2,3,3,not sure
+2025-02-04 08:48:00,Yaounde,Health,300L,Female,3,1-2hrs,Research,3,1,Often,4,4,5,not sure
+2025-02-04 09:35:00,Bamenda,Social Sciences,100L,Male,1,Less than 1hr,Assignments,3,3,Once or twice,3,4,2,not sure
+2025-02-04 10:22:00,Bamenda,Engineering,100L,Male,2,1-2hrs,Assignments,1,2,Sometimes,2,3,2,yes
+2025-02-04 11:09:00,Yaounde,Sciences,200L,Male,1,Less than 1hr,Exam prep,4,5,Never,4,3,4,no
+2025-02-04 11:56:00,Buea,Social Sciences,400L,Male,3,5hrs or more,Summarising notes,5,2,Sometimes,5,3,4,no
+2025-02-04 12:43:00,Buea,Engineering,400L,Female,2,5hrs or more,Coding,2,2,Often,5,3,4,no
+2025-02-04 13:30:00,Yaounde,Sciences,400L,Male,2,1-2hrs,Assignments,4,3,Never,3,3,3,not sure
+2025-02-04 14:17:00,Douala,Engineering,300L,Female,4 or more,3-4hrs,Coding,4,5,Once or twice,2,2,2,yes
+2025-02-04 15:04:00,Bamenda,Engineering,300L,Male,2,1-2hrs,Coding,3,4,Never,3,2,5,yes
+2025-02-04 15:51:00,Bamenda,Sciences,100L,Male,3,3-4hrs,Research,4,2,Once or twice,2,1,5,no
+2025-02-04 16:38:00,Buea,Engineering,200L,Male,2,5hrs or more,Research,3,3,Once or twice,5,2,3,yes
+2025-02-04 17:25:00,Bamenda,Social Sciences,300L,Male,0,5hrs or more,Assignments,4,3,Never,2,1,4,yes
+2025-02-04 18:12:00,Bamenda,Law,100L,Male,4 or more,1-2hrs,Other,1,2,Once or twice,2,4,3,not sure
+2025-02-04 18:59:00,Buea,Business,200L,Female,1,5hrs or more,Coding,4,1,Once or twice,3,3,3,no
+2025-02-04 19:46:00,Buea,Engineering,300L,Male,2,1-2hrs,Exam prep,4,2,Once or twice,3,5,2,yes
+2025-02-04 20:33:00,Bamenda,Engineering,400L,Female,3,5hrs or more,Research,1,2,Once or twice,4,2,3,no
+2025-02-04 21:20:00,Buea,Engineering,PhD,Male,3,Less than 1hr,Coding,3,5,Never,3,3,3,no
+2025-02-04 22:07:00,Bamenda,Law,Masters,Male,3,3-4hrs,Coding,5,2,Sometimes,2,3,1,yes
+2025-02-04 22:54:00,Buea,Health,300L,Female,2,3-4hrs,Coding,3,5,Sometimes,2,1,3,no
+2025-02-04 23:41:00,Bamenda,Engineering,300L,Male,0,3-4hrs,Other,4,3,Once or twice,3,5,4,no
+2025-02-05 00:28:00,Buea,Other,300L,Male,3,1-2hrs,Research,5,3,Never,2,1,4,no
+2025-02-05 01:15:00,Douala,Engineering,400L,Male,3,5hrs or more,Assignments,4,3,Sometimes,4,5,4,no
+2025-02-05 02:02:00,Yaounde,Social Sciences,100L,Male,4 or more,1-2hrs,Coding,4,1,Often,4,5,5,yes
+2025-02-05 02:49:00,Yaounde,Health,300L,Female,4 or more,3-4hrs,Coding,4,2,Never,4,4,1,not sure
+2025-02-05 03:36:00,Douala,Business,400L,Male,4 or more,1-2hrs,Summarising notes,5,1,Once or twice,5,4,3,not sure
+2025-02-05 04:23:00,Bamenda,Health,200L,Female,2,1-2hrs,Assignments,3,3,Never,5,4,4,not sure
+2025-02-05 05:10:00,Buea,Business,300L,Female,2,3-4hrs,Summarising notes,3,2,Once or twice,5,3,3,yes
+2025-02-05 05:57:00,Bamenda,Sciences,300L,Male,4 or more,1-2hrs,Research,3,4,Never,2,4,3,not sure
+2025-02-05 06:44:00,Yaounde,Business,200L,Female,2,1-2hrs,Research,5,2,Once or twice,2,1,2,not sure
+2025-02-05 07:31:00,Yaounde,Engineering,200L,Male,1,1-2hrs,Coding,4,1,Sometimes,3,1,5,not sure
+2025-02-05 08:18:00,Bamenda,Business,200L,Female,4 or more,1-2hrs,Coding,2,2,Once or twice,5,3,3,yes
+2025-02-05 09:05:00,Buea,Social Sciences,100L,Male,4 or more,3-4hrs,Assignments,5,5,Once or twice,5,4,5,no
+2025-02-05 09:52:00,Buea,Business,100L,Female,2,5hrs or more,Research,3,3,Once or twice,5,5,3,not sure
